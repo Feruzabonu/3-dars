@@ -39,7 +39,7 @@ let Months = [
     "January","February","March","April","May","June","July","Avgust","September","October","November","December"
 ]
 let WeekDays = [
-    "Monday","Tuesday","Wednesday","Thursday","Friday","Saturday","Sanday"
+    "Sanday","Monday","Tuesday","Wednesday","Thursday","Friday","Saturday"
 ]
 
 let date = new Date();
